@@ -13,6 +13,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 ## **Professional Background**
 * Landmark Preservation Inspector: current role
 * ... Add more later
+
 ### **Contact Info**
 * *GitHub Account*: @brglea
 * *LinkedIn*: @lauren-gleason
