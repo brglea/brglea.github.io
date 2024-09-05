@@ -9,6 +9,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 * **University of Colorado, Boulder**: Student, Expected Completion Date - June 2025
 
   Earth Data Analytics Foundations Graduate Certificate
+  
 ## **Professional Background**
 * Landmark Preservation Inspector: current role
 * ... Add more later
