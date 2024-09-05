@@ -15,9 +15,12 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 ### **Contact Info**
 * *GitHub Account*: @brglea
 * *LinkedIn*: @lauren-gleason
-#### What I'm Excited About Learning About Earth Data Science
+
+  
+#### * What I'm Excited About Learning About Earth Data Science
 I am excited to learn how to use different tools and types of data to work on projects and be proficient enough to start a career in this.
 
-#### Questions I'd like to Answer Using Earth Data Science
-* What can Earth Data Science tell us about historic preservation efforts? There are frequesnt issues with structural stability in part due to deffered maintenance, but also due to changes in the earth upon which structures sit, and climate change increasing flooding or fire potential to historic structures and places. One of the largest problems I see in Denver are front porches sinking and or pulling off the face of the front facade. Another issue I see is foundation/ structural issues with masonry due to moisture (and lack of maintenace).
+
+#### * Questions I'd like to Answer Using Earth Data Science
+* What can Earth Data Science tell us about historic preservation efforts? There are frequesnt issues with structural stability in part due to deffered maintenance, but also due to changes in the earth upon which structures sit, and climate change increasing flooding or fire potential to historic structures and places. One of the largest problems I see are front porches sinking and or pulling off the face of the front facade. Another issue I see is foundation/ structural issues with masonry due to moisture (and lack of maintenace).
 * How can Earth Data Science merge with other discplines/ industries to share new insights?
