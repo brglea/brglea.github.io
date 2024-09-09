@@ -9,7 +9,7 @@ width="25%">
 Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about historic preservation and architectural history and would love to somehow involve that knowledge into what I will accomplish in the certificate course. I am also an avid baker (at high altitude), breads, cakes, pastries, cookies, pretty much anything you can think of. While baking and historic preservation may seem unrelated to Earth Data Science, they can relate by being very intricate and detailed in nature.
 
 ## **Map's I Created**
-<embed type="text/html" src="gmcc.html" width="600" height="600">
+<embed type="text/html" src="img/gmcc.html" width="600" height="600">
 
 ## **Educational Background**
 * **Bryn Mawr College**: Bryn Mawr, PA - B.A. *magna cum laude*, December 2019
