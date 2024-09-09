@@ -1,6 +1,6 @@
 # Lauren Gleason
 
-![Partial Front Facade of Goodheart Hall, Bryn Mawr College](/img/Theater_at_Bryn_Mawr_College.jpg)
+![Partial Front Facade of Goodheart Hall, Bryn Mawr College](../img/Theater_at_Bryn_Mawr_College.jpg)
 
 ## **Bio**
 Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about historic preservation and architectural history and would love to somehow involve that knowledge into what I will accomplish in the certificate course. I am also an avid baker (at high altitude), breads, cakes, pastries, cookies, pretty much anything you can think of. While baking and historic preservation may seem unrelated to Earth Data Science, they can relate by being very intricate and detailed in nature.
