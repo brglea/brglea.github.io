@@ -26,7 +26,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 * *GitHub Account*: @brglea
 * *LinkedIn*: @lauren-gleason
 
-  
+## Questions:  
 ### * What I'm Excited About Learning About Earth Data Science
 I am excited to learn how to use different tools and types of data to work on projects and be proficient enough to start a career in this.
 
