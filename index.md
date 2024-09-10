@@ -14,6 +14,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 This map shows the outline of the Great Mosque-Cathedral of Córdoba as is exists today, after it's earlier expansions.The Great Mosque-Cathedral of Córdoba is situated in Spain's southern most region, Andalucía, just north of the Guadalquivir River. It is also part of a UNESCO World Heritage Site - please read more about it if interested.
 [UNESCO - Historic Centre of Córdoba](https://whc.unesco.org/en/list/313/)
 
+
 # **Educational Background**
 * **Bryn Mawr College**: Bryn Mawr, PA - B.A. *magna cum laude*, December 2019
 
