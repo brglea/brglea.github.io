@@ -8,7 +8,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 
 # **Maps I've Created**
 ## Great Mosque-Cathedral of Cordoba
-<embed type="text/html" src="img/gmcc2.html" width="600" height="600">
+<embed type="text/html" src="/img/gmcc2.html" width="600" height="600">
 
 # **Educational Background**
 * **Bryn Mawr College**: Bryn Mawr, PA - B.A. *magna cum laude*, December 2019
