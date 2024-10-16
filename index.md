@@ -7,11 +7,11 @@ width="25%">
 Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about historic preservation and architectural history and would love to somehow involve that knowledge into what I will accomplish in the certificate course. I am also an avid baker (at high altitude), breads, cakes, pastries, cookies, pretty much anything you can think of. While baking and historic preservation may seem unrelated to Earth Data Science, they can relate by being very intricate and detailed in nature.
 
 # **Projects:**
-* [First Map - The Grreat Mosque/Cathedral of Cordoba, Spain]()
+* [First Map - The Great Mosque/Cathedral of Cordoba, Spain]()
   <embed type="text/html" src="../img/gmcc2.html" width="600" height="600">
-* [Climate Coding - St. Petersburg, Russia](notebooks/climate-coding/st_petersburg_climate_portfolio_post.html)
+* [Climate Coding - Average Annual Temperature Over Time in St. Petersburg, Russia](notebooks/climate-coding/st_petersburg_climate_portfolio_post.html)
   <embed type="text/html" src="../../img/st_petersburg_ann_temp_trend_1944_2023.png" width="400" height="400">
-* [Species Distribution - Bobcat](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post.html)
+* [Species Distribution - Bobcat Migration Over Time](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post.html)
  <embed type="text/html" src="../../img/bobcat_migration.html" width="600" height="600">
 
 # **Educational Background**
