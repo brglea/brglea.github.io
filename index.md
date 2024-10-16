@@ -12,7 +12,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 * [Climate Coding - Average Annual Temperature Over Time in St. Petersburg, Russia](notebooks/climate-coding/st_petersburg_climate_portfolio_post.html)
   <embed type="text/html" src="../../img/st_petersburg_ann_temp_trend_1944_2023.png" width="1000" height="800">
 * [Species Distribution - Bobcat Migration Over Time](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post.html)
- <embed type="text/html" src="../../img/bobcat_migration.html" width="800" height="600">
+ <embed type="text/html" src="../../img/bobcat_migration.html" width="800" height="900">
 
 # **Educational Background**
 * **Bryn Mawr College**: Bryn Mawr, PA - B.A. *magna cum laude*, December 2019
