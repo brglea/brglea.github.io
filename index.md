@@ -12,7 +12,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 * [Climate Coding - St. Petersburg, Russia]()
   
 * [Species Distribution - Bobcat](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post-final.html)
- <embed type="text/html" src="../img/bobcat-migration.html" width="600" height="600">
+ <embed type="text/html" src="../img/bobcat_migration.html" width="600" height="600">
 
 # **Educational Background**
 * **Bryn Mawr College**: Bryn Mawr, PA - B.A. *magna cum laude*, December 2019
