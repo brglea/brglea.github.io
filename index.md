@@ -11,7 +11,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
   <embed type="text/html" src="../img/gmcc2.html" width="600" height="600">
 * [Climate Coding - St. Petersburg, Russia]()
   
-* [Species Distribution - Bobcat](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post-final.html)
+* [Species Distribution - Bobcat](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post.html)
  <embed type="text/html" src="../../img/bobcat_migration.html" width="600" height="600">
 
 # **Educational Background**
