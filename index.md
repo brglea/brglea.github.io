@@ -13,7 +13,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
   <embed type="text/html" src="../../img/st_petersburg_ann_temp_trend_1944_2023.png" width="1000" height="800">
 * [Species Distribution - Bobcat Migration Over Time](notebooks/species-distribution-challenge/bobcat-migration-portfolio-post.html)
   <embed type="text/html" src="../../img/bobcat_migration.html" width="800" height="900">
-* [Redlining and Urban Green Space - Philadelphia](notebooks/04-redlining/philadelphia-redlining-portfolio-post.html)
+* [Redlining and Urban Green Space Relationship - Philadelphia](notebooks/04-redlining/philadelphia-redlining-portfolio-post.html)
   <embed type="text/html" src="../../img/philadelphia_mean_ndvi_and_redlining_grades.html" width="750" height="600">
 
 # **Educational Background**
