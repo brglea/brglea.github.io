@@ -16,7 +16,9 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
 * [Redlining and Urban Green Space Relationship - Philadelphia](notebooks/04-redlining/philadelphia-redlining-portfolio-post.html)
   <embed type="text/html" src="../../img/philadelphia_mean_ndvi_and_redlining_grades.html" width="700" height="600">
 * [Habitat Suitability in Comanche and Pawnee National Grasslands - Rocky Mountain Juniper](notebooks/05-habitat_suitability/habitat_suitability_juniper_portfolio_post.html)
+  <embed type="text/html" src="../../img/philadelphia_mean_ndvi_and_redlining_grades.html" width="700" height="600">
 * [Urban Greenspace and Depression Prevalence in Denver](notebooks/06_urban_greesnpace_denver/portfolio_post_urban_greenspace.html)
+  <embed type="text/html" src="../../img/philadelphia_mean_ndvi_and_redlining_grades.html" width="700" height="600">
 
 
 # **Educational Background**
