@@ -19,7 +19,7 @@ Hi! My name is Lauren and I am new to Earth Data Science! I am passionate about 
   
 * [Urban Greenspace and Depression Prevalence in Denver](notebooks/06_urban_greenspace_denver/portfolio_post_urban_greenspace.html)
   <embed type="text/html" src="../../img/den_side_by_side_chlorpleths.html" width="600" height="450">
-  <embed type="text/html" src="../../img/den_model_error_chloropleth.html" width="700" height="400">
+  <embed type="text/html" src="../../img/den_model_error_chloropleth.html" width="600" height="450">
 
 
 # **Educational Background**
