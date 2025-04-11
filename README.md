@@ -8,4 +8,4 @@
 * [Redlining and Urban Green Space Relationship - Philadelphia](https://brglea.github.io/notebooks/04-redlining/philadelphia-redlining-portfolio-post.html)
 * [Habitat Suitability for *Juniperus scopulorum* Sargent - Rocky Mountain Juniper](https://brglea.github.io/notebooks/05-habitat_suitability/habitat_suitability_juniper_portfolio_post.html)
 * [Urban Greenspace and Depression Prevalence in Denver](https://brglea.github.io/notebooks/06_urban_greenspace_denver/portfolio_post_urban_greenspace.html)
-* [Land Cover Classification at the Colorado River Headwaters](notebooks/07_land_cover_clustering/co_headwaters_portfolio_post.html)
+* [Land Cover Classification at the Colorado River Headwaters]()
