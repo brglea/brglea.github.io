@@ -9,3 +9,4 @@
 * [Habitat Suitability for *Juniperus scopulorum* Sargent - Rocky Mountain Juniper](https://brglea.github.io/notebooks/05-habitat_suitability/habitat_suitability_juniper_portfolio_post.html)
 * [Urban Greenspace and Depression Prevalence in Denver](https://brglea.github.io/notebooks/06_urban_greenspace_denver/portfolio_post_urban_greenspace.html)
 * [Land Cover Classification at the Colorado River Headwaters](notebooks/07_clustering_co_headwaters/co_headwaters_portfolio_post.html)
+  [Parrt 2 Habitat Suitability for *Juniperus scopulorum* Sargent - Rocky Mountain Juniper](notebooks/08_habitat_suitability_part_2/version_2_habitat_suitability_portfolio_post.html)
